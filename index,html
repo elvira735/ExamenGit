@@ -3,3 +3,5 @@ hola desde github
 hola desde git en local
 
 adiós desde github
+
+<button onclick="nuevaFuncionElvira()">Haz clic aquí</button>
